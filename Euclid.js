@@ -9,4 +9,4 @@ function solve(a, b) {
   }
   return a;
 }
-//Try out the functß
+//Try out the function
