@@ -1,5 +1,5 @@
 //Find the greatest common denominator
-//Using Eulid Algorith
+//Using Euclid Algorith
 
 function solve(a, b) {
   while (b != 0) {
